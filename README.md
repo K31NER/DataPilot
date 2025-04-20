@@ -64,5 +64,3 @@ Sigue estos pasos para configurar DataPilot en tu máquina local:
 3.  **Interactúa:** Sigue las instrucciones que aparezcan en la terminal para realizar tus consultas a la base de datos SQLite usando lenguaje natural.
 
 ---
-
-*Siéntete libre de añadir secciones adicionales como "Características", "Contribución" o "Licencia" según sea necesario.*
