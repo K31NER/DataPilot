@@ -51,8 +51,7 @@ Sigue estos pasos para configurar DataPilot en tu máquina local:
       ```bash
       pip install -r requirements.txt
       ```
-      *(Si no tienes `requirements.txt`, necesitarás crear uno con las dependencias de tu proyecto, por ejemplo: `pip freeze > requirements.txt`)*
-
+      
 ## Cómo Usar
 
 1.  **Asegúrate de que Ollama esté ejecutando el modelo:** Verifica que la terminal donde ejecutaste `ollama run qwen2:1.5b` siga activa y mostrando mensajes de Ollama (o esperando input).
