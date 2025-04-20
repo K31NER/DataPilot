@@ -1,0 +1,4 @@
+1- Mejorar la respuestas del modelo
+2- validar las consultas antes de ejecutar
+3- Crear interfaz (flet o streamlit)
+4- Crear contexto mejorado en base a consultas para repuestas mas inteligentes
